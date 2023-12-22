@@ -1,2 +1,2 @@
 # sur
-sur priject frontend
+sur project frontend
